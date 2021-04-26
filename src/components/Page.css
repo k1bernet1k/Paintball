@@ -1,0 +1,12 @@
+.page h1{
+    font-family: Impact,fantasy;
+    font-size: 4rem;
+    padding: 100px 0;
+    text-align: center;
+    background-image: url("http://adrena.ancorathemes.com/wp-content/uploads/2017/03/breadcrumbs_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    color: #fff;
+    letter-spacing: .5rem;
+}
